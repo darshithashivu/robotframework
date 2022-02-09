@@ -3,8 +3,9 @@ Library  DateTime
 
 *** Test Cases ***
 Tc1 print Name
-     Log To Console     hello,everyone
+     Log To Console     ${EXECDIR}\\driver\\msedgedriver
      Log To Console     Darshitha
+
 
 Tc2 print Date
      ${date}        Get Current Date
@@ -44,4 +45,4 @@ Tc7 For loop
             Log To Console  ${i}
         END
 
-
+\\driver\\msedgedriver.exe
