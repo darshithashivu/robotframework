@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2429dea-163d-4013-aa24-5d9d13840d6b" name="Changes" comment="day3">
+      <change afterPath="$PROJECT_DIR$/selenium_suite/hdfc_suite.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium_suite/selenium_suite.robot" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log.html" beforeDir="false" afterPath="$PROJECT_DIR$/log.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output.xml" beforeDir="false" afterPath="$PROJECT_DIR$/output.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/report.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +40,7 @@
       <recent name="C:\Users\user\Desktop\roboticproject\driver" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.alert_suite.robot">
+  <component name="RunManager" selected="Python.selenium_suite.robot">
     <configuration name="alert_suite.robot" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="roboticproject" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -99,7 +104,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="demo3_suite.robot" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="hdfc_suite.robot" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="roboticproject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -112,7 +117,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="robot.run" />
-      <option name="PARAMETERS" value="--suite &quot;roboticproject.robot_suite.demo3_suite&quot; ." />
+      <option name="PARAMETERS" value="--suite &quot;roboticproject.selenium_suite.hdfc_suite&quot; ." />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="true" />
@@ -120,7 +125,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="demo_suite.robot" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="nascom_membership.robot" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="roboticproject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -133,7 +138,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="robot.run" />
-      <option name="PARAMETERS" value="--suite &quot;roboticproject.robot_suite.demo_suite&quot; ." />
+      <option name="PARAMETERS" value="--suite &quot;roboticproject.selenium_suite.nascom_membership&quot; ." />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="true" />
@@ -204,7 +209,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="phptravels.robot" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="selenium_suite.robot" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="roboticproject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -217,7 +222,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="robot.run" />
-      <option name="PARAMETERS" value="--suite &quot;roboticproject.selenium_suite.phptravels&quot; ." />
+      <option name="PARAMETERS" value="--suite &quot;roboticproject.selenium_suite.selenium_suite&quot; ." />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="true" />
@@ -227,11 +232,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.selenium_suite.robot" />
+        <item itemvalue="Python.hdfc_suite.robot" />
+        <item itemvalue="Python.nascom_membership.robot" />
         <item itemvalue="Python.alert_suite.robot" />
         <item itemvalue="Python.demo2task_suite.robot" />
-        <item itemvalue="Python.demo3_suite.robot" />
-        <item itemvalue="Python.phptravels.robot" />
-        <item itemvalue="Python.demo_suite.robot" />
       </list>
     </recent_temporary>
   </component>
@@ -307,7 +312,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644484219676</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="day3">
+      <created>1644490799190</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1644490799190</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
