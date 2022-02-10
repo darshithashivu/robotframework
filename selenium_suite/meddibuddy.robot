@@ -16,7 +16,7 @@ Tc1 Register form
     Input Text       id=mobileNumber   14562
     Input Text    id=address    India
     Input Text    id=pincode    1452
-    Input Text    id=websiteUrl     www.goole.com
+    Input Text    id=websiteUrl     www.edge.com
     Input Text    id=empCount    100
     Click Element    xpath=//input[@value='Next']
     Close Browser

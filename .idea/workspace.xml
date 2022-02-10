@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f2429dea-163d-4013-aa24-5d9d13840d6b" name="Changes" comment="nascom register">
-      <change afterPath="$PROJECT_DIR$/selenium_suite/db4.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/selenium_suite/meddibuddy.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/selenium_suite/phptravels.robot" afterDir="false" />
+    <list default="true" id="f2429dea-163d-4013-aa24-5d9d13840d6b" name="Changes" comment="day2 end">
+      <change afterPath="$PROJECT_DIR$/robot_suite/demo_suite.robot" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/log.html" beforeDir="false" afterPath="$PROJECT_DIR$/log.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output.xml" beforeDir="false" afterPath="$PROJECT_DIR$/output.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium_suite/meddibuddy.robot" beforeDir="false" afterPath="$PROJECT_DIR$/selenium_suite/meddibuddy.robot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium_suite/phptravels.robot" beforeDir="false" afterPath="$PROJECT_DIR$/selenium_suite/phptravels.robot" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +30,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/driver" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
@@ -41,7 +41,7 @@
       <recent name="C:\Users\user\Desktop\roboticproject\driver" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.db4.robot">
+  <component name="RunManager" selected="Python.phptravels.robot">
     <configuration name="db4.robot" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="roboticproject" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -77,6 +77,27 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="robot.run" />
       <option name="PARAMETERS" value="--suite &quot;roboticproject.robot_suite.demo1_suite&quot; ." />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="true" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo_suite.robot" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="roboticproject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\python\python3102\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="robot.run" />
+      <option name="PARAMETERS" value="--suite &quot;roboticproject.robot_suite.demo_suite&quot; ." />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="true" />
@@ -189,7 +210,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="orange_hrm_task_suite.robot" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="phptravels.robot" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="roboticproject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -202,28 +223,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="robot.run" />
-      <option name="PARAMETERS" value="--suite &quot;roboticproject.selenium_suite.orange_hrm_task_suite&quot; ." />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="true" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="task_hrm_suite.robot" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="roboticproject" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\python\python3102\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="robot.run" />
-      <option name="PARAMETERS" value="--suite &quot;roboticproject.selenium_suite.task_hrm_suite&quot; ." />
+      <option name="PARAMETERS" value="--suite &quot;roboticproject.selenium_suite.phptravels&quot; ." />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="true" />
@@ -233,11 +233,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.db4.robot" />
+        <item itemvalue="Python.phptravels.robot" />
+        <item itemvalue="Python.demo_suite.robot" />
         <item itemvalue="Python.meddibuddy.robot" />
+        <item itemvalue="Python.db4.robot" />
         <item itemvalue="Python.nascom.robot" />
-        <item itemvalue="Python.task_hrm_suite.robot" />
-        <item itemvalue="Python.orange_hrm_task_suite.robot" />
       </list>
     </recent_temporary>
   </component>
@@ -285,7 +285,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644400417505</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="day2 end">
+      <created>1644409027818</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1644409027819</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -303,6 +310,7 @@
     <MESSAGE value="Day2 start" />
     <MESSAGE value="openemr login check" />
     <MESSAGE value="nascom register" />
-    <option name="LAST_COMMIT_MESSAGE" value="nascom register" />
+    <MESSAGE value="day2 end" />
+    <option name="LAST_COMMIT_MESSAGE" value="day2 end" />
   </component>
 </project>
