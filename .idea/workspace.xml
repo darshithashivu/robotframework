@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f2429dea-163d-4013-aa24-5d9d13840d6b" name="Changes" comment="day2 end">
-      <change afterPath="$PROJECT_DIR$/robot_suite/demo_suite.robot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/log.html" beforeDir="false" afterPath="$PROJECT_DIR$/log.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output.xml" beforeDir="false" afterPath="$PROJECT_DIR$/output.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium_suite/meddibuddy.robot" beforeDir="false" afterPath="$PROJECT_DIR$/selenium_suite/meddibuddy.robot" afterDir="false" />
+    <list default="true" id="f2429dea-163d-4013-aa24-5d9d13840d6b" name="Changes" comment="day3 start">
       <change beforePath="$PROJECT_DIR$/selenium_suite/phptravels.robot" beforeDir="false" afterPath="$PROJECT_DIR$/selenium_suite/phptravels.robot" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -292,7 +286,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644409027819</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="day3 start">
+      <created>1644471681315</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1644471681315</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -311,6 +312,7 @@
     <MESSAGE value="openemr login check" />
     <MESSAGE value="nascom register" />
     <MESSAGE value="day2 end" />
-    <option name="LAST_COMMIT_MESSAGE" value="day2 end" />
+    <MESSAGE value="day3 start" />
+    <option name="LAST_COMMIT_MESSAGE" value="day3 start" />
   </component>
 </project>

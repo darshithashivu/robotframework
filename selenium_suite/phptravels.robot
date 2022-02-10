@@ -10,6 +10,5 @@ TC1 Multitabs login
     Go To    url=https://phptravels.net/
     Click Element    id=currency
     Select From List By Label        INR
-    Set Selenium Implicit Wait    5s
     Click Element    link=flights
     Select From List By Label    id=flight_type     Business
