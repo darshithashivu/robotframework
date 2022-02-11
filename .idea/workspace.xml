@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f2429dea-163d-4013-aa24-5d9d13840d6b" name="Changes" comment="day3">
-      <change afterPath="$PROJECT_DIR$/advance_suite/advance_selenium.robot" afterDir="false" />
+    <list default="true" id="f2429dea-163d-4013-aa24-5d9d13840d6b" name="Changes" comment="get web element">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/advance_suite/advance_selenium.robot" beforeDir="false" afterPath="$PROJECT_DIR$/advance_suite/advance_selenium.robot" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/log.html" beforeDir="false" afterPath="$PROJECT_DIR$/log.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output.xml" beforeDir="false" afterPath="$PROJECT_DIR$/output.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium_suite/openerm_suite.robot" beforeDir="false" afterPath="$PROJECT_DIR$/selenium_suite/openerm_suite.robot" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +40,7 @@
       <recent name="C:\Users\user\Desktop\roboticproject\driver" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.advance_selenium.robot">
+  <component name="RunManager" selected="Python.openerm_suite.robot">
     <configuration name="advance_selenium.robot" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="roboticproject" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -325,7 +326,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644494224750</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="get web element">
+      <created>1644553396203</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1644553396203</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -346,6 +354,7 @@
     <MESSAGE value="day2 end" />
     <MESSAGE value="day3 start" />
     <MESSAGE value="day3" />
-    <option name="LAST_COMMIT_MESSAGE" value="day3" />
+    <MESSAGE value="get web element" />
+    <option name="LAST_COMMIT_MESSAGE" value="get web element" />
   </component>
 </project>

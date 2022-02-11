@@ -13,5 +13,7 @@ Tc1 Valid Login
     ${title}       Get Title
     Log To Console    ${title}
     Title Should Be    OpenEMR
+    Mouse Over  xpath=//span[@data-bid='text:fname']
+    Click Element  xpath=//li[text()='Logout']
     Close Browser
 
