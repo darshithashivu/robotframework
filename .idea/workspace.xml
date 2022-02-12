@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f2429dea-163d-4013-aa24-5d9d13840d6b" name="Changes" comment="strings">
-      <change afterPath="$PROJECT_DIR$/python_code/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_code/calculatore.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/robot_suite/demo5_suite.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/robot_suite/demo6_suite.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/selenium_suite/demo.txt" afterDir="false" />
+    <list default="true" id="f2429dea-163d-4013-aa24-5d9d13840d6b" name="Changes" comment="operating system variable">
+      <change afterPath="$PROJECT_DIR$/advance_suite/advance2_suite.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advance_suite/advance3_suite.robot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/roboticproject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/roboticproject.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/log.html" beforeDir="false" afterPath="$PROJECT_DIR$/log.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output.xml" beforeDir="false" afterPath="$PROJECT_DIR$/output.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/robot_suite/demo4_suite.robot" beforeDir="false" afterPath="$PROJECT_DIR$/robot_suite/demo4_suite.robot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/robot_suite/demo6_suite.robot" beforeDir="false" afterPath="$PROJECT_DIR$/robot_suite/demo6_suite.robot" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,14 +44,15 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\robot_framework\drivers" />
       <recent name="C:\Users\user\Desktop\roboticproject\driver" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\user\Desktop\roboticproject\driver" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.demo5_suite.robot">
-    <configuration name="advance_selenium.robot" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.advance2_suite.robot">
+    <configuration name="advance2_suite.robot" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="roboticproject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -65,7 +65,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="robot.run" />
-      <option name="PARAMETERS" value="--suite &quot;roboticproject.advance_suite.advance_selenium&quot; ." />
+      <option name="PARAMETERS" value="--suite &quot;roboticproject.advance_suite.advance2_suite&quot; ." />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="true" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="advance3_suite.robot" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="roboticproject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\python\python3102\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="robot.run" />
+      <option name="PARAMETERS" value="--suite &quot;roboticproject.advance_suite.advance3_suite&quot; ." />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="true" />
@@ -220,34 +241,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="selenium_suite.robot" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="roboticproject" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\python\python3102\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="robot.run" />
-      <option name="PARAMETERS" value="--suite &quot;roboticproject.selenium_suite.selenium_suite&quot; ." />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="true" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.demo5_suite.robot" />
+        <item itemvalue="Python.advance2_suite.robot" />
+        <item itemvalue="Python.advance3_suite.robot" />
         <item itemvalue="Python.demo6_suite.robot" />
+        <item itemvalue="Python.demo5_suite.robot" />
         <item itemvalue="Python.demo4_suite.robot" />
-        <item itemvalue="Python.advance_selenium.robot" />
-        <item itemvalue="Python.selenium_suite.robot" />
       </list>
     </recent_temporary>
   </component>
@@ -358,7 +358,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644560718331</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="operating system variable">
+      <created>1644563847857</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1644563847857</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -382,6 +389,7 @@
     <MESSAGE value="get web element" />
     <MESSAGE value="window size, mouse test," />
     <MESSAGE value="strings" />
-    <option name="LAST_COMMIT_MESSAGE" value="strings" />
+    <MESSAGE value="operating system variable" />
+    <option name="LAST_COMMIT_MESSAGE" value="operating system variable" />
   </component>
 </project>
